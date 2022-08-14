@@ -1,1 +1,2 @@
 practica git1
+edicion del archivo practica subido desde el local al github y luego clonado
